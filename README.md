@@ -1,2 +1,2 @@
-# TIL
-Today I learned
+## About
+무의식의 흐름대로 내가 공부하고 생각했던 곳을 기록하는 공간
